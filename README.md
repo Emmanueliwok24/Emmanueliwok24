@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Emmanueliwok24
+- 👋 Hi, I’m Emmanuel 
+- 🌱 I’m currently learning javascript
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web Developers
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I love eating, watching movies and making programming contentson social media
+- 💬 Ask me about anything tech iwokemmanuel49@gmail.com
 
 <!---
 Emmanueliwok24/Emmanueliwok24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
