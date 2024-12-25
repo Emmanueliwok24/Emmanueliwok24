@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel 
-- 🌱 I’m currently learning javascript
-- 👀 I’m interested in coding
+- 🌱 I’m a javascript Frontend developer
+- 👀 I’m a lover of codes
 - 💞️ I’m looking to collaborate on web Developers
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love eating, watching movies and making programming contentson social media
